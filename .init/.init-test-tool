@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/subtitle-sync-and-quality-platform-88039/subtitle_platform_backend"
+}
